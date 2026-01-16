@@ -1,2 +1,3 @@
-# Machine-Learning-
-This repository contains implementation of fundamental Machine Learning algortithms from scratch.
+# Machine-Learning
+1. PCA-Principal Component Analysis
+2. 
